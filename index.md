@@ -4,12 +4,12 @@ This repository will be used to aid myself in revision and prove to myself that 
 taught. But also to assist any other students struggling.
 
 My first year modules are as follows:
-# Mathematics for Computer Science
-# Codes and code breaking
-# Fundamentals of Computer Science
-# Programming (C & C++)
-# Software engineering
-# Applications of Computer Science
+* Mathematics for Computer Science
+* Codes and code breaking
+* Fundamentals of Computer Science
+* Programming (C & C++)
+* Software engineering
+* Applications of Computer Science
 
 ### Markdown
 
