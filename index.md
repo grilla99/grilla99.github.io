@@ -13,8 +13,9 @@ My first year modules are as follows:
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+First blog post here: 
 
+<a href="first_post.md"> Introduction to Cryptography </a>
 ```markdown
 Syntax highlighted code block
 
