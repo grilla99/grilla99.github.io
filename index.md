@@ -1,8 +1,15 @@
-## Welcome to GitHub Pages
+## Grilla99 - University blog
 
-You can use the [editor on GitHub](https://github.com/grilla99/grila99.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+This repository will be used to aid myself in revision and prove to myself that I know the topics which are being 
+taught. But also to assist any other students struggling.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My first year modules are as follows:
+# Mathematics for Computer Science
+# Codes and code breaking
+# Fundamentals of Computer Science
+# Programming (C & C++)
+# Software engineering
+# Applications of Computer Science
 
 ### Markdown
 
